@@ -1,0 +1,30 @@
+Team: "Brighton"
+Match result: D
+Referee: "C Kavanagh"
+Team: "Man City"
+Match result: D
+Referee: "M Atkinson"
+Team: "Newcastle"
+Match result: A
+Referee: "M Dean"
+Team: "Man City"
+Match result: A
+Referee: "J Moss"
+Team: "Sheffield United"
+Match result: A
+Referee: "C Kavanagh"
+Team: "Southampton"
+Match result: A
+Referee: "C Kavanagh"
+Team: "Man United"
+Match result: A
+Referee: "K Friend"
+Team: "Newcastle"
+Match result: D
+Referee: "C Pawson"
+Team: "Leicester"
+Match result: H
+Referee: "C Kavanagh"
+Team: "West Ham"
+Match result: H
+Referee: "A Madley"
